@@ -15,7 +15,7 @@ A real-time American Sign Language (ASL) alphabet recognition system using deep 
 
 ## Dataset
 
-The model was trained on the [ASL Alphabet Dataset from Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) containing:
+The dataset was get from the [ASL Alphabet Dataset from Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) containing:
 - 87,000 images of ASL gestures
 - 29 classes (A-Z plus space, delete, and nothing)
 - 200x200px RGB images
